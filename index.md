@@ -1,4 +1,4 @@
-# Hu Yao-Chieh
+<!-- # Hu Yao-Chieh -->
 
 *Researcher*  
 *The Hong Kong University of Science and Technology*  
