@@ -9,7 +9,7 @@
 ### **[Resume](https://drive.google.com/open?id=1BN8ffDBwB9gCLzbCG6nVB9jqZgf8Jsna)**
 
 ## Bio
-> I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
+> I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan Chase](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
 
 ## Contact
 [Google Scholar](https://scholar.google.com.tw/citations?user=IdpHulcAAAAJ&hl=en), [Github](https://github.com/yhuag), [LinkedIn](https://www.linkedin.com/in/yaochiehhu), [Medium](https://medium.com/@jj1385jeff850527)
@@ -165,7 +165,7 @@ Writer of [Hackernoon](https://hackernoon.com/), [The Startup](https://medium.co
 - *CEO & Founder* / [**Turing Chain Ltd.**](https://turingchain.tech/) / Hong Kong, China
 - *Chief Blockchain Researcher* / [**SELFPICK Production**](https://selftoken.co/) / Taipei, Taiwan
 - *VP of Blockchain Technology* / [**Blackbird.ai**](http://www.blackbird.ai/) / New York, NY, USA
-- *Summer Technology Analyst on Computational Linguistics* / [**J.P. Morgan**](https://www.jpmorgan.com/country/HK/EN/jpmorgan) / Hong Kong, China
+- *Summer Technology Analyst on Computational Linguistics* / [**J.P. Morgan Chase**](https://www.jpmorgan.com/country/HK/EN/jpmorgan) / Hong Kong, China
 - *Software Engineering Internship* / [**Augmedix**](https://www.augmedix.com) / San Francisco, CA, USA
 
 
@@ -176,14 +176,14 @@ Writer of [Hackernoon](https://hackernoon.com/), [The Startup](https://medium.co
 ## Community and Organization
 - *Regional Director* / [**Blockchain Education Network**](https://www.blockchainedu.org/) / Hong Kong, China
 - *Co-Organizer* / [**Taipei Ethereum Meetup**](https://www.meetup.com/Taipei-Ethereum-Meetup/) / Taipei, Taiwan
-- *Core Member* / [FireBird, HKUST Cybersecurity Lab](http://cybersecurity.cse.ust.hk) / Hong Kong, China
+- *Core Member* / [**FireBird, HKUST Cybersecurity Lab**](http://cybersecurity.cse.ust.hk) / Hong Kong, China
 
 
 
 
 
 ## Startups Founded
-- *CEO & Founder* at **Turing Chain Ltd.** (Blockchain Security) Apr. 2018 – Present
+- *CEO & Founder* at [**Turing Chain Ltd.**](https://turingchain.tech/) (Blockchain Security) Apr. 2018 – Present
 - *CTO & Co-Founder* at **GiftVIVA Ltd.** (Gifting E-commerce Marketplace) Sep. 2017 – Mar. 2018
 - *CTO & Co-Founder* at **Peachy Travel** (Travel Technology) Feb. 2016 – Dec. 2016
 
