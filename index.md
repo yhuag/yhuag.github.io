@@ -1,7 +1,7 @@
 <!-- # Hu Yao-Chieh -->
 
-*Researcher*\
-*The Hong Kong University of Science and Technology*\
+*Researcher* \
+*The Hong Kong University of Science and Technology* \
 *Dept of Computer Science*
 
 **Email: yhuag AT connect DOT ust DOT hk**
