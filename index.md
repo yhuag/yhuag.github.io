@@ -110,8 +110,8 @@
 - [The Neon Network: E-coupon on Blockchain](https://github.com/yhuag/The-Neon-Network-ECoupons-On-Blockchain)
     - A framework for digital coupons issuing, transferal, and redemption on Ethereum blockchain.
     - Winner of EtNet FinTech Awards (Hong Kong, 2017) and UpTown E-commerce Competition (Seoul, 2018)
-- [Crib Dragging Autocracker](https://github.com/yhuag/Crib-Dragging-Auto-Cracker)
-    - An automative tool with 5k most frequent English word applied to cribdragging.
+- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty)
+    - An blockchain collectible game on Tron blockchain thats for photographers and models industry.
 
 
 
