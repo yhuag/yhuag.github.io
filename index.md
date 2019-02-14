@@ -1,12 +1,12 @@
 <!-- # Hu Yao-Chieh -->
 
-*Researcher* \
-*The Hong Kong University of Science and Technology* \
+*Researcher* •
+*The Hong Kong University of Science and Technology* •
 *Dept of Computer Science*
 
 **Email: yhuag AT connect DOT ust DOT hk**
 
-### **[Resume](https://drive.google.com/open?id=1BN8ffDBwB9gCLzbCG6nVB9jqZgf8Jsna)**
+### **[Resume](https://drive.google.com/file/d/1sCfW2mTqfBe87GzsX4k9MpxKtrWCpjOs)**
 
 ## Bio
 > I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan Chase](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
@@ -86,6 +86,9 @@
 
 
 ## Teaching
+- *Research tutor* at [IEEE Full-stack Blockchain Development Tutorial](https://www.payblock.cash/event/dappcon-tutorial):
+    - A blockchain tutorial course co-located with five other IEEE conferences in 2019.
+    - Location: East Bay, San Francisco, California, USA
 - *Sole instructor* at [**Online course**](https://www.tibame.com/course/347) (2.7 hours):
     - Introduction to Ethereum Smart Contract Development / TibaMe Technology MOOC Platform, Taiwan
 - *Sole instructor* at [**Classroom course**](https://www.tibame.com/offline/smart-contract) (2 days):
@@ -199,6 +202,6 @@ Writer of [Hackernoon](https://hackernoon.com/), [The Startup](https://medium.co
 - **Startup VC Pitch and Visits at Seoul**: [Naver](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=003&aid=0008409727&sid1=001)
 - **2nd Place at Microsoft Imagine Cup HK Regional**: [HKUST Entrepreneurship Centre](http://www.ec.ust.hk/news/hkust-student-teams-got-1st-runners-microsoft-imagine-cup-2017-hong-kong)
 - **Full Mark at Taiwanese Univeristy Entry Exam**(0.2%): [China Times](http://www.chinatimes.com/newspapers/20140214000489-260107), [Liberty Times Net](http://news.ltn.com.tw/news/local/paper/754119), [聯合新聞網](https://udn.com/news/story/6898/477786), [一點通學習](http://www.edtung.com/TopNews/NewsContent.aspx?type=5&no=5317)
-
+- **Magazines**: [0xmag](http://magq.com/EventDetail.aspx?eventID=25838&ACID=A1440050286&fbclid=IwAR0QcDfUJvDWq5O717S3rl_tSGFxTET94pp6_FDJeQmuo9LRIKgv9OumAOw)
 
 
