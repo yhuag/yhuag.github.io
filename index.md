@@ -1,15 +1,15 @@
 <!-- # Hu Yao-Chieh -->
 
-*Researcher* •
-*The Hong Kong University of Science and Technology* •
-*Dept of Computer Science*
+*Visiting Research Scholar* •
+*University Of California, Berkeley* •
+*Blockchain X-Lab*
 
 **Email: yhuag AT connect DOT ust DOT hk**
 
-### **[Resume](https://drive.google.com/file/d/1sCfW2mTqfBe87GzsX4k9MpxKtrWCpjOs)**
+### **[Resume](https://drive.google.com/open?id=1sCfW2mTqfBe87GzsX4k9MpxKtrWCpjOs)**
 
 ## Bio
-> I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan Chase](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
+> I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018), and currently as a visiting scholar at [University Of California, Berkeley](https://www.berkeley.edu/) - [Blockchain X-Lab](https://scet.berkeley.edu/blockchain-lab/). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan Chase](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
 
 ## Contact
 [Google Scholar](https://scholar.google.com.tw/citations?user=IdpHulcAAAAJ&hl=en), [Github](https://github.com/yhuag), [LinkedIn](https://www.linkedin.com/in/yaochiehhu), [Medium](https://medium.com/@jj1385jeff850527)
@@ -23,11 +23,11 @@
 
 ## Publications
 
-[1] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2018.  [Hierarchical interactions between Ethereum smart contracts across Testnets](https://dl.acm.org/citation.cfm?id=3211935). In *CRYBLOCK'18: 1st Workshop on Cryptocurrencies and Blockchains for Distributed Systems*, June 15, 2018, Munich, Germany. ACM, New York, NY, USA, 6 pages. **Best Paper Award**.
+[1] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2018.  "[Hierarchical interactions between Ethereum smart contracts across Testnets](https://dl.acm.org/citation.cfm?id=3211935)." In *CRYBLOCK'18: 1st Workshop on Cryptocurrencies and Blockchains for Distributed Systems*, June 15, 2018, Munich, Germany. ACM, New York, NY, USA, 6 pages. **Best Paper Award**.
 
-[2] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2019. "Analyzing Smart Contract Interactions and Contract Level State Consensus," In *Concurrency and Computation: Practice and Experience (WILEY) Journal*, 2019.
+[2] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2019. "[Analyzing Smart Contract Interactions and Contract Level State Consensus](https://dappcon.net/)," In *Concurrency and Computation: Practice and Experience (WILEY) Journal*, 2019.
 
-[3] **Yao-Chieh Hu**,  Ting-Ting  Lee,  and  Chungsang Lam. 2019. “[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://edas.info/showBibTeX.php?m=1570508602),” in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
+[3] **Yao-Chieh Hu**,  Ting-Ting  Lee,  and  Chungsang Lam. 2019. "[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://edas.info/showBibTeX.php?m=1570508602)," in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
 
 ## Honors
 ### Blockchain
@@ -165,9 +165,9 @@ Writer of [Hackernoon](https://hackernoon.com/), [The Startup](https://medium.co
 
 
 ## Working Experience
-- *CEO & Founder* / [**Turing Chain Ltd.**](https://turingchain.tech/) / Hong Kong, China
+- *CEO & Cofounder* / [**Turing Chain Ltd.**](https://turingchain.tech/) / Hong Kong, China
 - *Chief Blockchain Researcher* / [**SELFPICK Production**](https://selftoken.co/) / Taipei, Taiwan
-- *VP of Blockchain Technology* / [**Blackbird.ai**](http://www.blackbird.ai/) / New York, NY, USA
+- *Head of Blockchain Technology* / [**Blackbird.ai**](http://www.blackbird.ai/) / New York, NY, USA
 - *Summer Technology Analyst on Computational Linguistics* / [**J.P. Morgan Chase**](https://www.jpmorgan.com/country/HK/EN/jpmorgan) / Hong Kong, China
 - *Software Engineering Internship* / [**Augmedix**](https://www.augmedix.com) / San Francisco, CA, USA
 
