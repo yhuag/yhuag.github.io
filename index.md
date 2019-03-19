@@ -25,7 +25,7 @@
 
 [1] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2018.  "[Hierarchical interactions between Ethereum smart contracts across Testnets](https://dl.acm.org/citation.cfm?id=3211935)." In *CRYBLOCK'18: 1st Workshop on Cryptocurrencies and Blockchains for Distributed Systems*, June 15, 2018, Munich, Germany. ACM, New York, NY, USA, 6 pages. **Best Paper Award**.
 
-[2] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2019. "[Analyzing Smart Contract Interactions and Contract Level State Consensus](https://dappcon.net/)," In *Concurrency and Computation: Practice and Experience (WILEY) Journal*, 2019.
+[2] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2019. "[Analyzing Smart Contract Interactions and Contract Level State Consensus](https://rdcu.be/brKuF)," In *Concurrency and Computation: Practice and Experience (WILEY) Journal*, 2019.
 
 [3] **Yao-Chieh Hu**,  Ting-Ting  Lee,  and  Chungsang Lam. 2019. "[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://edas.info/showBibTeX.php?m=1570508602)," in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
 
