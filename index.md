@@ -128,9 +128,13 @@
 - [Ethereum](https://github.com/ethereum/EIPs) **EIPs**:
     - Addressed [ERC860](https://github.com/ethereum/EIPs/issues/860), co-authored with [tina1998612](https://github.com/tina1998612).
     - Addressed [ERC1586](https://github.com/ethereum/EIPs/issues/860), co-authored with [tina1998612](https://github.com/tina1998612) and [erinata](https://github.com/erinata).
+    - Addressed [ERC1700](https://github.com/tronprotocol/TIPs/issues/18), co-authored with [tina1998612](https://github.com/tina1998612), [Roger-Wu](https://github.com/Roger-Wu), and [dAAAb](https://github.com/dAAAb).
+    - Addressed [ERC1756](https://github.com/ethereum/EIPs/issues/1756), co-authored with [tina1998612](https://github.com/tina1998612).
 - [Truffle](https://github.com/trufflesuite) **trufflesuite**: Corrected errors in [developer documents](https://github.com/trufflesuite/trufflesuite.github.io/pull/145).
 - [Bitcoinaddress.org](https://github.com/pointbiz/bitaddress.org) **bitaddress.org**: Created [bulk wallet generation features](https://github.com/pointbiz/bitaddress.org/pull/189). [Medium article](https://medium.com/coinmonks/generate-and-download-thousands-of-bitcoin-wallets-in-a-minute-or-two-d42ce73d77d8).
 - [NPM package](https://www.npmjs.com/package/filetree-md): filetree-md. Generate the filetree in markdown for any directories down to file leaves.
+- [Tron](https://tron.network/) **TRCs**:
+    - Addressed [TRC1700](https://github.com/tronprotocol/TIPs/issues/18), co-authored with [tina1998612](https://github.com/tina1998612), [Roger-Wu](https://github.com/Roger-Wu), and [dAAAb](https://github.com/dAAAb).
 
 
 
