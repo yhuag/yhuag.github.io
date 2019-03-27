@@ -6,7 +6,7 @@
 
 **Email: yhuag AT connect DOT ust DOT hk**
 
-### **[Resume](https://drive.google.com/open?id=1sCfW2mTqfBe87GzsX4k9MpxKtrWCpjOs)**
+### **[Resume](https://ipfs.io/ipfs/QmfGtrUrZWpwhfX3XLFwgJXuupACmHZdNx6oKyiiFsgWYs)**
 
 ## Bio
 > I have graduated from [The Hong Kong University of Science and Technology](https://www.ust.hk/) with First-class honor in [Computer Science](https://www.cse.ust.hk/) (2018), and currently as a visiting scholar at [University Of California, Berkeley](https://www.berkeley.edu/) - [Blockchain X-Lab](https://scet.berkeley.edu/blockchain-lab/). I am working on several blockchain research supervised by [Professor Pan Hui](https://www.cse.ust.hk/~panhui/): smart contract exploits, contract-level consensus, and decentralized oracles. I interned in [Augmedix](https://www.augmedix.com/) (San Francisco, 2016) on fullstack integration, and [J.P. Morgan Chase](https://www.jpmorgan.com/country/HK/EN/jpmorgan) (Hong Kong, 2017) on computational linguistics. I was an exchange student at the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html) (Switzerland, 2017) studying reinforcement learning and pattern recognition.
