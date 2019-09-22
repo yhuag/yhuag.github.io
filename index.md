@@ -33,7 +33,7 @@
 
 [2] **Yao-Chieh Hu**, Ting-Ting Lee, Dimitris Chatzopoulos, and Pan Hui. 2019. "[Analyzing Smart Contract Interactions and Contract Level State Consensus](https://rdcu.be/brKuF)," In *Concurrency and Computation: Practice and Experience (WILEY) Journal*, 2019.
 
-[3] **Yao-Chieh Hu**,  Ting-Ting  Lee,  and  Chungsang Lam. 2019. "[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://edas.info/showBibTeX.php?m=1570508602)," in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
+[3] **Yao-Chieh Hu**,  Ting-Ting  Lee,  and  Chungsang Lam. 2019. "[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://xcelerator.berkeley.edu/wp-content/uploads/2019/03/IEEE-DappCon19-A-Risk-Redistribution-Standard-for-Practical-Cryptocurrency-Payment.pdf)," in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
 
 ## Honors
 ### Blockchain
